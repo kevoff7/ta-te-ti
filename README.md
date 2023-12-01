@@ -12,5 +12,5 @@ It is developed using React + TypeScript + Vite and TailwindCss.
 
 `pnpn run dev`: to run the program 
 
-copy in a browser:http://localhost:5173/
+copy in a browser: https://heartfelt-frangollo-9b81eb.netlify.app/
 
